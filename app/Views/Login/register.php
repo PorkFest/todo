@@ -17,11 +17,11 @@
     </div>
     <div class="form-group">
         <label>Password</label>
-        <input class="form-control" name="password" placeholder="Enter password" maxlength="30">
+        <input class="form-control" name="password" type="password" placeholder="Enter password" maxlength="30">
     </div>
     <div class="form-group">
         <label>Confirm password</label>
-        <input class="form-control" name="confirmpassword" placeholder="Confirm password" maxlength="30">
+        <input class="form-control" name="confirmpassword" type="password" placeholder="Confirm password" maxlength="30">
     </div>
     <button class="btn btn-primary">Register</button>
 </form>
